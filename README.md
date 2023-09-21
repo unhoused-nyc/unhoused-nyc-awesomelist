@@ -3,7 +3,7 @@
 See twitter for news, substack for nyc ai housing glossary, Ko-Fi for buying me a coffee
 
 #### Table of Contents
-- Help Lists
+- [Help Lists](#help-lists)
 - Housing
   - US Agencies
   - NYC Agencies
