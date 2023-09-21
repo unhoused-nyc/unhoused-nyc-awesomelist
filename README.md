@@ -1,10 +1,10 @@
 # unhoused-nyc-awesomelist
 
-See twitter for news, substack for nyc ai housing glossary, Ko-Fi for buying me a coffee
+See [Twitter](https://x.com/tomiki_tokuriki?t=3vNjOLlw-WWt8Tk6iAxIpA&s=09) for news, [Substack](https://HousingAI.substack.com) for nyc ai housing glossary newsletter,  [Ko-Fi](https://ko-fi.com/tomikitokuriki) for buying me a coffee
 
 #### Table of Contents
 - [Help Lists](#help-lists)
-- Housing
+- [Housing](#housing)
   - US Agencies
   - NYC Agencies
   - 501(c)3's
