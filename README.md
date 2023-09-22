@@ -33,6 +33,7 @@ See [Twitter](https://x.com/tomiki_tokuriki?t=3vNjOLlw-WWt8Tk6iAxIpA&s=09) for n
   - Human Rights
   - Books
   - Data
+  - Studies
   - Talks
   - Research Centers
 
@@ -73,5 +74,6 @@ See [Twitter](https://x.com/tomiki_tokuriki?t=3vNjOLlw-WWt8Tk6iAxIpA&s=09) for n
 ### Human Rights
 ### Books
 ### Data
+### Studies
 ### Talks
 ### Research Centers
