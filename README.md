@@ -7,7 +7,9 @@ See [Twitter](https://x.com/tomiki_tokuriki?t=3vNjOLlw-WWt8Tk6iAxIpA&s=09) for n
 - [Housing](#housing)
   - US Agencies
   - NYC Agencies
-  - 501(c)3's
+  - 501(c)(3)'s
+  - 501(c)(4)'s
+  - Other non-profits
   - Research Centers
   - Section 8
   - Section 9 / NYCHA
@@ -17,6 +19,8 @@ See [Twitter](https://x.com/tomiki_tokuriki?t=3vNjOLlw-WWt8Tk6iAxIpA&s=09) for n
   - Right-to-shelter
   - Legal Assistance
 - Food Insecurity
+  - Community Fridges
+  - Meals
   - Food Pantries
 - Drugs and Overdose
   - Overdose Prevention 
@@ -38,7 +42,8 @@ See [Twitter](https://x.com/tomiki_tokuriki?t=3vNjOLlw-WWt8Tk6iAxIpA&s=09) for n
 
 ### US Agencies
 ### NYC Agencies
-### 501(c)3's
+### 501(c)(3)'s
+### 501(c)(4)'s
 ### Section 8
 ### Section 9 / NYCHA
 ### Affordable Housing
