@@ -8,7 +8,6 @@ See [Twitter](https://x.com/tomiki_tokuriki?t=3vNjOLlw-WWt8Tk6iAxIpA&s=09) for n
   - US Agencies
   - NYC Agencies
   - 501(c)(3)'s
-  - 501(c)(4)'s
   - Other non-profits
   - Research Centers
   - Section 8
@@ -19,6 +18,7 @@ See [Twitter](https://x.com/tomiki_tokuriki?t=3vNjOLlw-WWt8Tk6iAxIpA&s=09) for n
   - Right-to-shelter
   - Legal Assistance
 - Food Insecurity
+  - Food Waste
   - Community Fridges
   - Meals
   - Food Pantries
@@ -27,13 +27,14 @@ See [Twitter](https://x.com/tomiki_tokuriki?t=3vNjOLlw-WWt8Tk6iAxIpA&s=09) for n
 - Mental Health
   - Civil Commitment
 - Poverty
+- Youth
 - Policy and Legislative Initiatives
   - FY24THUD
   - HPAV
   - Human Rights
   - Books
   - Data
-  - Studies
+  - Studies and Reports
   - Talks
   - Research Centers
 
@@ -55,6 +56,9 @@ See [Twitter](https://x.com/tomiki_tokuriki?t=3vNjOLlw-WWt8Tk6iAxIpA&s=09) for n
 
 ## Food Insecurity
 
+### Food Waste
+### Community Fridges
+### Meals
 ### Food Pantries
 
 ## Drugs and Overdose
@@ -74,6 +78,6 @@ See [Twitter](https://x.com/tomiki_tokuriki?t=3vNjOLlw-WWt8Tk6iAxIpA&s=09) for n
 ### Human Rights
 ### Books
 ### Data
-### Studies
+### Studies and Reports
 ### Talks
 ### Research Centers
