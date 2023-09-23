@@ -47,9 +47,13 @@ See [Twitter](https://x.com/tomiki_tokuriki?t=3vNjOLlw-WWt8Tk6iAxIpA&s=09) for n
 ### US Agencies
 ### NYC Agencies
 ### 501(c)(3)'s
-`<div style="background: #D6F6EF; border: 1px dashed #23B7B7; border-radius: 2px; padding: 1rem; margin-bottom: 1rem">
- <span style="font-weight: bold; color: #23B7B7; padding-right: 0.5rem;">✔ Tip</span>`
- YOUR TEXT HERE
+
+> **Note**
+> This is a note
+
+> **Warning**
+> This is a warning
+
 ### Section 8
 ### Section 9 / NYCHA
 ### Affordable Housing
