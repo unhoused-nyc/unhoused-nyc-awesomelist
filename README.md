@@ -17,6 +17,7 @@ See [Twitter](https://x.com/tomiki_tokuriki?t=3vNjOLlw-WWt8Tk6iAxIpA&s=09) for n
   - Shelters
   - Right-to-shelter
   - Legal Assistance
+  - e-Learning
 - Food Insecurity
   - Food Waste
   - Community Fridges
@@ -53,6 +54,7 @@ See [Twitter](https://x.com/tomiki_tokuriki?t=3vNjOLlw-WWt8Tk6iAxIpA&s=09) for n
 ### Shelters
 ### Right-to-shelter
 ### Legal Assistance
+### e-Learning
 
 ## Food Insecurity
 
