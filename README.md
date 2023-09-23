@@ -19,6 +19,7 @@ See [Twitter](https://x.com/tomiki_tokuriki?t=3vNjOLlw-WWt8Tk6iAxIpA&s=09) for n
   - Legal Assistance
   - Fair Housing
   - e-Learning
+  - Laws
 - Food Insecurity
   - Food Waste
   - Community Fridges
