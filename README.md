@@ -48,10 +48,10 @@ See [Twitter](https://x.com/tomiki_tokuriki?t=3vNjOLlw-WWt8Tk6iAxIpA&s=09) for n
 ### NYC Agencies
 ### 501(c)(3)'s
 
-> :note: **Note**
+> :exclamation: **Note** 
 > This is a note
 
-> :warning: **Warning**
+> :warning: **Warning** 
 > This is a warning
 
 ### Section 8
